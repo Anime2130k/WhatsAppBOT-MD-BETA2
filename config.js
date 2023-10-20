@@ -42,38 +42,38 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['917086726371'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'MIKEY☯️' //ur owner name
 
-global.ytname = "YT: AlienAlfa" //ur yt chanel name
+global.ytname = "YT: ANIME⛩️PARADISE" //ur yt chanel name
 
-global.socialm = "GitHub: Alien-Alfa" //ur github or insta name
+global.socialm = "GitHub: TIKU_BOTS" //ur github or insta name
 
-global.location = "UK, London, hertfordshire" //ur location
-
-
+global.location = "INDIA, UKNOWN, UKNOWN" //ur location
 
 
-global.owner = ['447405935355']
 
-global.ownertag = '447405935355' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.owner = ['917086726371']
 
-global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
+global.ownertag = '917086726371' //ur tag number
 
-global.websitex = 'https://www.GITHUB.com/alien-alfa' //ur website to be displayed
+global.botname = "XIAO WU 💮" //ur bot name
 
-global.botscript = 'https://github.com/Alien-Alfa/WhatsAppBot-MD-BETA2' //script link
+global.linkz = 'https://youtube.com/@animeparadise9503?si=qz-jHVpjjP3f4bd6' //your theme url which will be displayed on whatsapp
 
-global.reactmoji = "😘" //ur menu react emoji
+global.websitex = 'https://www.GITHUB.com/JAPANESE_CULTURE' //ur website to be displayed
 
-global.themeemoji = "🐤" //ur theme emoji
+global.botscript = ''https://www.GITHUB.com/JAPANESE_CULTURE//script link
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.reactmoji = "" //ur menu react emoji
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
+global.themeemoji = "⛩️" //ur theme emoji
+
+global.packname = 'TIKU✨🦋' //ur sticker watermark packname
+
+global.author = '+917086726371' //ur sticker watermark author
 
 
 
